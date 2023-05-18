@@ -215,7 +215,7 @@ function log() {
   setTimeout(
     console.log.bind(
       console,
-      "%cIf you are seeing this, Nebula's main script has succesfully loaded!",
+      "%cIf you are seeing this, Ultra's main script has succesfully loaded!",
       "background: green;color:#FFF;padding:5px;border-radius: 5px;line-height: 26px; font-size:16px;"
     )
   );
