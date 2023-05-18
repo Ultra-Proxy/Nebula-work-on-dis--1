@@ -4,7 +4,9 @@ We are from the not so proud school of Cedar Valley Middle School of rrisd
 
 Coded by Jamal jackson. Tweaked to perfection by Eld 
 
-links are deployed by anonymous
+links are deployed by anonymous and eld
+
+this is paid by eld lol. jamal is a brokie dev (so pls give him money or food)
 
 
 How did we make this you say? "Get better lol"
