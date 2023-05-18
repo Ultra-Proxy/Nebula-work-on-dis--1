@@ -82,7 +82,7 @@ window.addEventListener("load", () => {
     // Check if the service worker (commonly called SW) is registered
     if (typeof navigator.serviceWorker === "undefined")
       alert(
-        "An error occured registering your service worker. Please contact support - discord.gg/unblocker"
+        "An error has occured. Please contact Eld#9377"
       );
     //
     if (proxy === "uv" || proxy === "osana") {
@@ -108,7 +108,7 @@ window.addEventListener("load", () => {
               stealthEngine(redirectTo);
             } else {
               console.error(
-                "Stealth Engine failed to load! Please contact support - discord.gg/unblocker"
+                "Stealth failed to load! Ask Eld#9377 for help."
               );
             }
           } else {
