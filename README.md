@@ -1,6 +1,6 @@
 Ultra. A proxy made by two middle schoolers lol
 We are from the not so proud school of Cedar Valley Middle School of rrisd
-Coded by Jamal jackson Tweaked by Eld
+Coded by Jamal jackson. Tweaked to perfection by Eld 
 links are deployed by anonymous
 
 How did we make this you say? "Get better lol"
